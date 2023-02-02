@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73465ccd-b4a7-4ef8-b15d-8b370cfb7b87" name="Changes" comment="commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="hibernate-configuration-5.2" />
+        <option value="hibernate-main-5.2" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JL8SOnnbtHPvwj3tzan5PuKIG3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alex/IdeaProjects/PP_1_1_3-4_JDBC_Hibernate&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.4816092&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\IdeaProjects\PP_1_1_3-4_JDBC_Hibernate\src\main\resources" />
+      <recent name="C:\Users\Alex\IdeaProjects\PP_1_1_3-4_JDBC_Hibernate\src\main\java\jm\task\core\jdbc" />
+      <recent name="C:\Users\Alex\IdeaProjects\PP_1_1_3-4_JDBC_Hibernate\src\main\java\jm\task\core\jdbc\resource" />
+      <recent name="C:\Users\Alex\IdeaProjects\PP_1_1_3-4_JDBC_Hibernate\src\main\java\jm\task\core\jdbc\util" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="API" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserServiceTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jm.task.core.jdbc.Main" />
+      <module name="TaskJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jm.task.core.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.createUsersTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="METHOD_NAME" value="createUsersTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.dropUsersTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="METHOD_NAME" value="dropUsersTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.removeUserById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="METHOD_NAME" value="removeUserById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.UserServiceTest.createUsersTable" />
+        <item itemvalue="JUnit.UserServiceTest.removeUserById" />
+        <item itemvalue="JUnit.UserServiceTest.dropUsersTable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73465ccd-b4a7-4ef8-b15d-8b370cfb7b87" name="Changes" comment="" />
+      <created>1671846004511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671846004511</updated>
+      <workItem from="1671846005724" duration="9044000" />
+      <workItem from="1671871429966" duration="2220000" />
+      <workItem from="1671955206826" duration="22178000" />
+      <workItem from="1671993916115" duration="3291000" />
+      <workItem from="1672073233248" duration="3091000" />
+      <workItem from="1672078996551" duration="429000" />
+      <workItem from="1672085666389" duration="79000" />
+      <workItem from="1672150200241" duration="1015000" />
+      <workItem from="1672151225595" duration="7196000" />
+      <workItem from="1672234571462" duration="43000" />
+      <workItem from="1672324834617" duration="1425000" />
+      <workItem from="1672350633765" duration="3682000" />
+      <workItem from="1672419243887" duration="2572000" />
+      <workItem from="1672427756115" duration="5709000" />
+      <workItem from="1672573220748" duration="1984000" />
+      <workItem from="1672585748681" duration="6000" />
+      <workItem from="1672645336746" duration="773000" />
+      <workItem from="1672646953640" duration="4000" />
+      <workItem from="1672653727353" duration="13360000" />
+      <workItem from="1672696678955" duration="413000" />
+      <workItem from="1672736967200" duration="10000" />
+      <workItem from="1672753074251" duration="2793000" />
+      <workItem from="1672822603924" duration="567000" />
+      <workItem from="1672840541586" duration="13000" />
+      <workItem from="1672846562022" duration="2000" />
+      <workItem from="1672856231360" duration="1214000" />
+      <workItem from="1672928092007" duration="662000" />
+      <workItem from="1672929687189" duration="21000" />
+      <workItem from="1672929736814" duration="976000" />
+      <workItem from="1672950116718" duration="636000" />
+      <workItem from="1673203182471" duration="762000" />
+      <workItem from="1673233052012" duration="3000" />
+      <workItem from="1673277220228" duration="1016000" />
+      <workItem from="1673278249313" duration="7587000" />
+      <workItem from="1673359309843" duration="25000" />
+      <workItem from="1673380216351" duration="290000" />
+      <workItem from="1673417238636" duration="57000" />
+      <workItem from="1673442979068" duration="311000" />
+      <workItem from="1673444470393" duration="17000" />
+      <workItem from="1673446178331" duration="89000" />
+      <workItem from="1673458801777" duration="613000" />
+      <workItem from="1673513844666" duration="646000" />
+      <workItem from="1674226137103" duration="13000" />
+      <workItem from="1674235240662" duration="21000" />
+      <workItem from="1675093816048" duration="900000" />
+      <workItem from="1675100323449" duration="863000" />
+      <workItem from="1675154140903" duration="1749000" />
+      <workItem from="1675158287881" duration="370000" />
+      <workItem from="1675363265713" duration="451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
